@@ -1,3 +1,3 @@
-# KMOD3_Astar
+#Kernmodule 3 Tim Peeters
 
-Make the Agents find a path through the maze by implementing the Astar class.
+Al mijn opdrachten voor kmd3 GDEV2. 
