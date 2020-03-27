@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TP_Robro1_1.0": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files (x86)\\Java\\jre1.8.0_241\\bin\\java.exe",
+      "commandLineArgs": "-Xmx512M -cp libs/robocode.jar;libs/jni4net.j-0.8.7.0.jar robocode.Robocode",
+      "workingDirectory": "C:\\robocode"
+    }
+  }
+}

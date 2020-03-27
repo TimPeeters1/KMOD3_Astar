@@ -1,0 +1,13 @@
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\bin\Debug\netstandard2.0\TP.Robro1_1.0.deps.json
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\bin\Debug\netstandard2.0\TP.Robro1_1.0.dll
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\bin\Debug\netstandard2.0\TP.Robro1_1.0.pdb
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\bin\Debug\netstandard2.0\robocode.dll
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\bin\Debug\netstandard2.0\robocode.xml
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP_Robro1_1.0.csprojAssemblyReference.cache
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP.Properties.Resources.resources
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP_Robro1_1.0.csproj.GenerateResource.cache
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP_Robro1_1.0.AssemblyInfoInputs.cache
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP_Robro1_1.0.AssemblyInfo.cs
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP_Robro1_1.0.csproj.CopyComplete
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP.Robro1_1.0.dll
+D:\Documenten\HKU Jaar 2\Kernmodule3\TP_Robro1_1.0\TP_Robro1_1.0\obj\Debug\netstandard2.0\TP.Robro1_1.0.pdb
